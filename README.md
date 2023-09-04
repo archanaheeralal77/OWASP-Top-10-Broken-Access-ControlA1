@@ -41,7 +41,10 @@ To identify if the weakness is present or not we can perform below:
 
 4. Proper Error Handling - If error/exception handling is not properly implemented in that case sensitive data can be disclosed, so in the error handling minmul information should be disclosed.
 
-5. Etc.
+5. Use Least Privilege.
+
+6. Utilize IAM in AWS.
+
 
 **CIA Consequences:**
 

@@ -3,6 +3,7 @@
 <img width="796" alt="Screenshot 2023-09-04 at 6 57 42 PM" src="https://github.com/archanaheeralal77/OWASP-Top-10-Broken-Access-ControlA1/assets/127080874/4c8d3b8f-d70e-4e35-82c3-976be91371b7">
 
 **How to Mitigate?**
+
 Input Validation
 Use anti-CSRF
 Secure configuration of system/architecture/server (secure configuration of config file etc).

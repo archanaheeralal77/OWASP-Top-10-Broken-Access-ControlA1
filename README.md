@@ -43,7 +43,7 @@ To identify if the weakness is present or not we can perform below:
 
 5. Use Least Privilege.
 
-6. Utilize IAM in AWS.
+6. Utilize Identity and access management (IAM) in AWS & Azure.
 
 
 **CIA Consequences:**

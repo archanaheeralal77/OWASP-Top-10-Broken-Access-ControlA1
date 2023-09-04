@@ -33,17 +33,17 @@ To identify if the weakness is present or not we can perform below:
 
 **How to Mitigate?**
 
-1. Input Validation - For exapmple if path traversal is possible (../../etc/passwd/) then input validation will help to mitigate the issue.
+1. Limiting CORS (Cross-Origin Resource Sharing) usage.
 
-2. Use anti-CSRF - If CSRF is possible then we can implement Anti - CSRF.
+2. Use Least Privilege.
+   
+3. Deny Access By Default
+   
+4. Enable Role-based Access Control
 
-3. Secure configuration of system/architecture/server (secure configuration of config file etc).
+5. Enable Permission-Based Access Control
 
-4. Proper Error Handling - If error/exception handling is not properly implemented in that case sensitive data can be disclosed, so in the error handling minmul information should be disclosed.
-
-5. Use Least Privilege.
-
-6. Utilize Identity and access management (IAM) in AWS & Azure.
+7. Utilize Identity and access management (IAM) in AWS & Azure.
 
 
 **CIA Consequences:**

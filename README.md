@@ -14,13 +14,15 @@ To identify if the weakness is present or not we can perform below:
 
 **How to Mitigate?**
 
-Input Validation
+1. Input Validation - For exapmple if path traversal is possible (../../etc/passwd/) then input validation will help to mitigate the issue.
 
-Use anti-CSRF
+2. Use anti-CSRF - If CSRF is possible then we can implement Anti - CSRF.
 
-Secure configuration of system/architecture/server (secure configuration of config file etc).
+3. Secure configuration of system/architecture/server (secure configuration of config file etc).
 
-Etc.
+4. Proper Error Handling - If error/exception handling is not properly implemented in that case sensitive data can be disclosed, so in the error handling minmul information should be disclosed.
+
+5. Etc.
 
 **CIA Consequences:**
 

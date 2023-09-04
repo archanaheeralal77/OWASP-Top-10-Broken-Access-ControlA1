@@ -14,11 +14,11 @@ Etc.
 
 **CIA Consequences:**
 
-Confidentiality – attacker can read/access the sensitive file/data
+**Confidentiality** – attacker can read/access the sensitive file/data
 
-Availability – Attacker can delete/remove the sensitive file/data.
+**Availability** – Attacker can delete/remove the sensitive file/data.
 
-Integrity – Attacker can modify the sensitive file/data
+**Integrity** – Attacker can modify the sensitive file/data
 
 
 

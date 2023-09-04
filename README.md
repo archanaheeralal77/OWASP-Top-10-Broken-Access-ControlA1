@@ -3,13 +3,21 @@
 <img width="796" alt="Screenshot 2023-09-04 at 6 57 42 PM" src="https://github.com/archanaheeralal77/OWASP-Top-10-Broken-Access-ControlA1/assets/127080874/4c8d3b8f-d70e-4e35-82c3-976be91371b7">
 
 **Attacker can perform if there is weakness in Access Control**
+
 •	Unauthorized access to sensitive information
+
 •	Inappropriate creation or deletion of resources
+
 •	User impersonation
+
 •	Force browsing
+
 •	Privilege escalation
+
 •	Path traversal
+
 •	CSRF
+
 •	Exposure of WSDL File Containing Sensitive Information
 
 

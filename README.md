@@ -7,7 +7,9 @@ Input Validation
 Use anti-CSRF
 Secure configuration of system/architecture/server (secure configuration of config file etc).
 Etc.
+
 **CIA Consequences:**
+
 Confidentiality – attacker can read/access the sensitive file/data
 Availability – Attacker can delete/remove the sensitive file/data.
 Integrity – Attacker can modify the sensitive file/data
